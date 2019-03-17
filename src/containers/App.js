@@ -2,9 +2,8 @@ import React from 'react';
 import uuid from 'uuid';
 import style from './App.css';
 import Title from '../components/Title';
-import TodoList from '../components/TodoList.js';
-import TodoForm from '../components/TodoForm.js'
-import Todo from '../components/Todo.js';
+import TodoList from '../components/TodoList';
+import TodoForm from '../components/TodoForm';
 import { hot } from 'react-hot-loader';
 
 class App extends React.Component {

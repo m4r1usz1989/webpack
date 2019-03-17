@@ -1,7 +1,7 @@
 ul li {
     list-style: none;
     padding: 10px 0;
-    border-bottom: 1px #ccc dashed;
+    border-bottom: 1px #fff dashed;
     cursor: pointer;
 }
 
